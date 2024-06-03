@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Nishant Barik</h1>
 
 ###
 
-<p align="left">My name is Nishant Barik and I'm a budding web developer </p>
+<p align="left"> I am an enthusiastic developer. </p>
 
 ###
 
