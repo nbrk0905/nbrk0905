@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbrk0905&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+[![](https://visitcount.itsvg.in/api?id=nbrk0905&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 ###
 
 <!---
