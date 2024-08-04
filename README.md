@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning Javascript,C++ and Python <br>🎯 Goals: To become a successful web developer and make websites for various companies and startups <br>
+<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning C++,JavaScript and Python <br>🎯 Goals: To become a successful web developer and make websites for various companies and startups <br>
 
 ###
 
