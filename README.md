@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning C++, JavaScript and Python <br>🎯 Goals: To become a successful Software Engineer and code programs that can solve real world problems. <br>
+<p align="left">✨ Started coding since 2022. <br>📚 I'm currently learning C++, JavaScript and Python <br>🎯 Goals: To become a successful Software Engineer and code programs that can solve real world problems. <br>
 
 ###
 
